@@ -1,4 +1,4 @@
-,container{
+.container{
     margin-bottom: 100px;
 }
 .gray-bg{
@@ -8,6 +8,7 @@
 .carousel-item{
     padding: 20px 40px;
 }
+
 .buy-now-button{
     background-image: linear-gradient(to bottom,black 0%,black 100%);
     color:#fff;
@@ -15,4 +16,20 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.bd-highlight{
+    color: orange;
+}
+.bd-highlight h3{
+    color: black;
+}
+.text-center{
+    border: none;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    
+
 }
