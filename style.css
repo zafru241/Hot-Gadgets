@@ -33,3 +33,14 @@
     
 
 }
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px;
+}
+.box img{
+    width: 100px;
+    height: 100px;
+}
